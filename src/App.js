@@ -4,7 +4,7 @@ import './styles.css';
 export default function App() {
     // eslint-disable-next-line
     const [user, setUser] = useState({
-        nombre: 'Josep',
+        nombre: 'Jose',
         apellidos: 'Garcia',
         id: 1,
         email: 'josegarciamanez@gmail.com'
